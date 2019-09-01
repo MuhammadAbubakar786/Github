@@ -19,7 +19,7 @@ namespace Github.Controllers
         {
             return View();
         }
-        public IActionResult Privac()
+        public IActionResult privac()
         {
             return View();
         }
